@@ -1,4 +1,4 @@
-<h1> Hi, I'm Denzel. Thanks for stopping by 👋
+<h2> Hi, I'm Denzel. Thanks for Stopping By 👋</h2> 
 
 <!--
 **Williamdst/williamdst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
