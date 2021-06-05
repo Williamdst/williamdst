@@ -11,8 +11,9 @@ I'm a Data Scientist switching over to the "dark side". In my Data Science train
   </li>
   
   <li>
-    <b><a href="">The Subway Challenge</a></b> - <i>World Record Route Generator</i>
+    <b><a href="https://github.com/Williamdst/The-Subway-Challenge">The Subway Challenge</a></b> - <i>World Record Route Generator</i>
     <br />
+    <b>With the aim of securing a spot in Guinness</b>, this used graph theory to determine a set of potential paths that can be used to set world record in the Subway Challenge.
     
 </ol>
 
