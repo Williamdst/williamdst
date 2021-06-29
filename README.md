@@ -1,7 +1,7 @@
 <h2> Hi, I'm Denzel. Thanks for Stopping By 👋</h2> 
-In my Data Science training I discovered my passion for data/analytics engineering. I love thinking about data architecting and infrastructure. I want to be the person that can handle Big Data and serve it buffet style, where anyone in the organization can easily use what they want, when they want. 
+<b>In my Data Science training I discovered my passion for data/analytics engineering. I love thinking about data architecting and infrastructure. I want to be the person that can handle Big Data and serve it buffet style, where anyone in the organization can easily use what they want, when they want. </b>
 
-<h3>Projects in my Highlight Reel</h3>
+<h3 align='center'>Projects in my Highlight Reel</h3>
 <ol> 
   <li> 
     <b><a href="https://github.com/Williamdst/Bike-Share-USA">Bike Share USA</a></b> - <i>Horizontal Expansion Regession Model</i> 🚴‍♂️
