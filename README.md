@@ -1,5 +1,5 @@
 <h2> Hi, I'm Denzel. Thanks for Stopping By 👋</h2> 
-I'm a Data Scientist switching over to the "dark side". In my Data Science training I discovered my passion for data/analytics engineering. I love thinking about data architecting and infrastructure. I want to be the person that can handle Big Data and serve it buffet style, where anyone in the organization can easily use what they want, when they want. 
+In my Data Science training I discovered my passion for data/analytics engineering. I love thinking about data architecting and infrastructure. I want to be the person that can handle Big Data and serve it buffet style, where anyone in the organization can easily use what they want, when they want. 
 
 <h3>Projects in my Highlight Reel</h3>
 <ol> 
