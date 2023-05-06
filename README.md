@@ -1,20 +1,20 @@
 <h2> Hi, I'm Denzel. Thanks for Stopping By 👋</h2> 
-<b>In my Data Science training I discovered my passion for data/analytics engineering. I love thinking about data architecting and infrastructure. I want to be the person that can handle Big Data and serve it buffet style, where anyone in the organization can easily use what they want, when they want. </b>
+During my training in Data Science, I discovered my passion for Data & Analytics Engineering. I enjoy thinking about data architecture and infrastructure, and I aspire to become proficient in handling big data to create an analytics suite that's user-friendly and accessible to everyone in the organization. <b>I envision a buffet-style system where users can easily access the information they need, whenever they need it.</b>
 
 <h3 align='center'>Projects in my Highlight Reel</h3>
 <ol> 
   <li> 
     <b><a href="https://github.com/Williamdst/Bike-Share-USA">Bike Share USA</a></b> - <i>Horizontal Expansion Regession Model</i> 🚴‍♂️
     <br />
-    <b> My neighborhood doesn't have bike sharing and I REALLY want bike sharing </b>. So, the objective of the project was to build a model that can predict the number of bike share stations that should be created in zip codes surrounding a company’s current network of bike stations. This model is to be used as a guide for a horizontal expansion to break into new areas. 
-    <p align='center'><b>In this project I designed a logical model of a database, implementing it in AWS RDS, and performed ETL jobs to transfer 68GB of wrangled data from 5 unique S3 buckets. Then used the organized data to do some pretty serious analytics and build my regression model.</b></p>
+    In my neighborhood, I noticed the lack of bike sharing options and became motivated to find a solution. The objective of my project was to develop a model that could predict the optimal number of bike share stations to be added in zip codes surrounding existing bike stations, with the goal of expanding the network horizontally into new areas. This model serves as a useful guide to inform decision-making in future expansion efforts.
+    <p align='center'><b>In this project, I created a database logical model and implemented it in AWS RDS. I also performed ETL jobs to transfer 68GB of data that had been cleaned and organized from 5 different S3 buckets. Finally, I used this data to conduct detailed analytics and develop the regression model.</b></p>
   </li>
   
   <li>
     <b><a href="https://github.com/Williamdst/The-Subway-Challenge">The Subway Challenge</a></b> - <i>World Record Route Generator</i> 🚄
     <br />
-    <b>With the aim of securing a spot in Guinness</b>, this project used graph theory to solve the massive logistic problem of stopping at all 472 stations on the MTA Subway line. I developed over 1000+ potential paths that can be used to set world record in the Subway Challenge.
-    <p align="center"><b>I modeled the entire subway station in Neo4j and then designed and integrated an SQLite database into my program to store the generated data. </p>
+    In this project, the objective was to solve the logistical challenge of visiting all 472 stations on the MTA Subway line. To accomplish this, I utilized graph theory and developed over 1500+ possible paths to set a world record in the Subway Challenge and potentially secure a spot in the Guinness World Records.
+    <p align="center"><b>In this project, I created a graph network to represent the subway map, then adapted an existing Python package to suit my needs. I also added an SQLite database to the program to store the data generated from this process.</b></p>
     
 </ol>
 
